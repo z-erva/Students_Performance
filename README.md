@@ -11,4 +11,4 @@ Bu çalışmada "Students Performance" veri setini kullandım.
 7. reading score: Öğrencinin okuma sınavındaki puanı.
 8. writing score: Öğrencinin yazma sınavındaki puanı.
 
-Çalışmada öğrencilerin sınavlarda göstermiş olduğu performanslarını cinsiyet, ırk, aile eğitim düzeyi gibi çeşitli farktörlerle olan ilişkisini inceleyip bunları görselleştirdim.
+Çalışmada öğrencilerin sınavlarda göstermiş olduğu performanslarını cinsiyet, ırk, ebeveyn eğitim düzeyi gibi çeşitli farktörlerle olan ilişkisini inceleyip bunları görselleştirdim.
